@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UOlrz639a0We61P7rFTEN2A6Zn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -78,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575235724530</updated>
       <workItem from="1575235725651" duration="5865000" />
+      <workItem from="1575243020238" duration="8000" />
     </task>
     <servers />
   </component>
